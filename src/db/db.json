@@ -1,0 +1,17 @@
+[
+  { "name": "Fantastic Gold Gloves", "price": "604.40", "category": "Kids" },
+  { "name": "Licensed Concrete Tuna", "price": "239.79", "category": "Tools" },
+  { "name": "Generic Marble Ball", "price": "59.29", "category": "Shoes" },
+  { "name": "Ergonomic Rubber Chips", "price": "698.69", "category": "Games" },
+  { "name": "Gorgeous Bronze Chips", "price": "238.59", "category": "Kids" },
+  {
+    "name": "Rustic Rubber Computer",
+    "price": "749.65",
+    "category": "Clothing"
+  },
+  {
+    "name": "Practical Steel Keyboard",
+    "price": "711.75",
+    "category": "Garden"
+  }
+]
